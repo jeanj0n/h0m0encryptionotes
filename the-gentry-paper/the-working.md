@@ -4,7 +4,7 @@
 
 _**We start with a SYMMETRIC scheme**_
 
-_**F**_or security parameter λ, set N = λ, P = λ 2 and Q = λ 5
+_**F**_&#x6F;r security parameter λ, set N = λ, P = λ 2 and Q = λ 5
 
 KeyGen**ε** (λ): The key is a random P-bit odd integer p.&#x20;
 
@@ -16,7 +16,7 @@ This scheme works because m' has same parity as m so all operations will follow 
 
 Ciphertexts from scheme **ε** are near-multiples of p.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 ![](<../.gitbook/assets/image (19).png>)
 

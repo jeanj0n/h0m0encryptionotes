@@ -8,12 +8,12 @@
 * [Implement](start/implement.md)
 * [Flaws](start/flaws.md)
 
-## Funda
+## Fundamentals
 
-* [Basics](funda/basics.md)
-* [Types (Major)](funda/types-major.md)
-* [Diffie Hellman](funda/diffie-hellman.md)
-* [Learning With Errors](funda/learning-with-errors.md)
+* [Basics](fundamentals/basics.md)
+* [Types (Major)](fundamentals/types-major.md)
+* [Diffie Hellman](fundamentals/diffie-hellman.md)
+* [Learning With Errors](fundamentals/learning-with-errors.md)
 
 ## The Gentry Paper
 

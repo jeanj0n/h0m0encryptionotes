@@ -14,7 +14,7 @@ Select any **α** such that **α\<q** and **α** is primitive root
 
 **α**^1,2.....q-1 mod q should have values {1,2,3,....q-1} need not be in order just the values should be there
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Private Key (Xa)
 
